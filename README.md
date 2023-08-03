@@ -14,5 +14,4 @@ Hide images inside others using Neural Nets having high bpp (bits per pixel). In
     ```
 - Run the program
     ```
-    cd gradio_app
     python main.py (or python3 main.py)
