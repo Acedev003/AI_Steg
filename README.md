@@ -6,7 +6,7 @@ Hide images inside others using Neural Nets having high bpp (bits per pixel). In
 ## Installation
 - First clone the repository
     ```
-    git clone https://github.com/Acedev003/ImDenoise.git
+    git clone https://github.com/Acedev003/AI_Steg.git
     ```
 - Install dependencies
     ```
